@@ -1,0 +1,2 @@
+numstars 15
+nummissile 5
